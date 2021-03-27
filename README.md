@@ -4,7 +4,7 @@
 Anna Chee, Daniel Atuesta, Dan Waehner, Domenic Padulo, Nabila Rizvi
 
 ## Project Description/Outline:
-Using the Spotify dataset, the team will investigate how listening patterns and song production rates have changed in the US since the pandemic started in March 2020. We will use historical data from prior to March 2020 as comparison.
+Using the Spotify dataset, the team will investigate how listening patterns and song production rates have changed in the US since the pandemic started in March 2020. We will use historical data that contains information such as popularity, number of songs per artist, and song release year.
 
 ## Research Questions to Answer:
 1. Has the pandemic affected the song production rate by genre/artist?
