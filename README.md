@@ -14,7 +14,7 @@ Turn Up the Data Co. has hired our team of experts to get a better understanding
 
 Budget planning has never been easy, but with the pandemic, it has become even more difficult to forecast and strategize on investments. If there is something ceratin is that data can always give you insight. By analyzing the following five major events the team is looking to search for data trends that can help Turn Up the Data Co. forcast and make data driven business decisions.
 
-1. The great depression in the US 1929-1939
+1. The great depression in the US 1929-1933
 2. The involement of the US in the second World War 1942-1945
 3. The recession in 1990-1992
 4. The  terrorist attacks to the US in september 2001
