@@ -55,7 +55,9 @@ Below were our hypothesis and null hypothesis for the main question:
 
 After our hypothesis was created, we ran a Pearson correlation test to see if there was sufficient statistical evidence to reject the null hypothesis for each attribute that was being tested against popularity. We established our alpha value to be 0.05.
 
-The correlation heatmap allows us to visually see if there are correlations bewteen the variables and the song popularity index. If the square is green it means there is a positive correlation, yellow no correlation and red negative correlation. This is based out of the pearsons correlation matrix. 
+The correlation heatmap below allows us to visually see if there are correlations bewteen the variables and the song popularity index. If the square is green it means there is a positive correlation, yellow no correlation and red negative correlation. This is based out of the pearsons correlation matrix. 
+
+![Heatmap](Images/correlation_matrix.png)
 
 With the Pearson correlation test results, we found out that the following attribtues were the only ones that had enough statistical evidence to prove that they do have a relationship with song popularity:
 
@@ -68,9 +70,9 @@ With the Pearson correlation test results, we found out that the following attri
 
 The graphs below show correlation between music attributes that were found as statistically significant and popularity:
 
-![Acoustiness](Images/aco&popularity.png)
+![Acousticness](Images/Aco&popularity.png)
 
-![Energy](Images/ene&popularity.png)
+![Energy](Images/Ene&popularity.png)
 
 ![Instrumentalness](Images/ins&popularity.png)
 
